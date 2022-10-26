@@ -1,9 +1,9 @@
 # kriptopert6_playfaircipher
 
-| NAMA   | PIKRI RAMDANI|
-|-----------------------|
-|NIM     | 312010162    |
-|Kelas   | TI.20 A.1    |
+| Nama | PIKRI RAMDANI |
+| ----------- | ----------- |
+| NIM | 312010162 |
+| Kelas | TI.20.A.1 |
 
 ## Program
 

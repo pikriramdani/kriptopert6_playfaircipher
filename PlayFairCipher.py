@@ -1,17 +1,3 @@
-# kriptopert6_playfaircipher
-
-| NAMA   | PIKRI RAMDANI|
-|-----------------------|
-|NIM     | 312010162    |
-|Kelas   | TI.20 A.1    |
-
-## Program
-
-'''python
-#CONTACT FOR ANY QUESTIONS
-#CODERATRI-ramdanifikri74@gmail.com
-#See this example: https://www.javatpoint.com/playfair-cipher-program-in-java
-
 key=input("Enter key")
 key=key.replace(" ", "")
 key=key.upper()
@@ -107,7 +93,3 @@ while(1):
         exit()
     else:
         print("Choose correct choice")
-'''
-
-## Output
-![output](output/Capture.PNG)

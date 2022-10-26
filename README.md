@@ -7,7 +7,7 @@
 
 ## Program
 
-'''python
+```python
 #CONTACT FOR ANY QUESTIONS
 #CODERATRI-ramdanifikri74@gmail.com
 #See this example: https://www.javatpoint.com/playfair-cipher-program-in-java
@@ -107,7 +107,7 @@ while(1):
         exit()
     else:
         print("Choose correct choice")
-'''
+```
 
 ## Output
 ![output](output/Capture.PNG)
